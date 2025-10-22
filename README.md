@@ -30,7 +30,7 @@ The following STRETCH features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/xlz1047/and101-project4-TipCalculator/blob/master/Result.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif (Windows)**
 
